@@ -24,7 +24,7 @@ If you encounter any issues or have questions about using the MyToken (SKJ) cont
 ## Authors
 
 - Satyam Jha
-  - GitHub: [SatyamA7](https://github.com/SatyamA7))
+  - GitHub: [SatyamA7](https://github.com/SatyamA7)
 
 ## License
 
