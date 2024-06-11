@@ -21,9 +21,9 @@ To get started with MyToken (SKJ), you'll want to fire up Remix IDE. That's wher
 
 If you encounter any issues or have questions about using the MyToken (SKJ) contract, refer to the documentation provided with your Ethereum development tools or seek assistance from the Ethereum developer community or you can directly reach out me for this token(SKJ) particularly using the below mentioned contact details.
 
-## Authors
+## Author
 
-- Satyam Jha
+Satyam Jha
   - GitHub: [SatyamA7](https://github.com/SatyamA7)
 
 ## License
